@@ -1,10 +1,2 @@
 this is css : 
-p{
-color
-}
-h1{
-font size
-}
-i like you soo much 
-iwante to will frond-End
-gggggggggggggg
+
