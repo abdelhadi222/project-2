@@ -2,3 +2,6 @@ this is css :
 p{
 color
 }
+h1{
+font size
+}
