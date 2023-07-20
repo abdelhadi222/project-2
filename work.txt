@@ -1,10 +1,9 @@
 this is css : 
-<<<<<<< HEAD
 
-=======
+
 color 
 desinger 
 info 
 It
 rahmania
->>>>>>> origin/master
+
